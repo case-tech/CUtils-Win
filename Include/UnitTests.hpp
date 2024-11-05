@@ -92,13 +92,13 @@ namespace CUtils
             : test_case_name(case_name), test_name(name), func(f) {}
     };
 
-    static std::vector<Test> registry;
+    static std::vector<Test> tests;
 
     inline int RUN_ALL_TESTS() 
     {
         int passed = 0;
         int failed = 0;
-        for (auto& test : registry) 
+        for (auto& test : tests) 
         {
             std::cout << "Running test " << test.test_case_name << "." << test.test_name << std::endl;
             try 
