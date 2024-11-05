@@ -1,5 +1,5 @@
 // The MIT License (MIT)
-// Copyright © 2024 Case Technologies
+// Copyright Â© 2024 Case Technologies
 
 #pragma once
 #include <iostream>
@@ -9,6 +9,8 @@
 #include <cstring>
 #include <string>
 
+namespace CUtils
+{
 #define ASSERT_TRUE(condition) \
         if (!(condition))      \
         { std::cerr << "ASSERT_TRUE failed: " #condition << std::endl; return; }
@@ -80,8 +82,6 @@
     } test_case_name##_##test_name##_instance; \
     void test_case_name##_##test_name()
 
-namespace CUtils
-{
     struct Test 
     {
         std::string test_case_name;
