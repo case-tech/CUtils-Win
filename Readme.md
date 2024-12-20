@@ -16,7 +16,7 @@
 
 ### Documentation
 
-To explore CUtils in detail, please refer to the complete [CUtils Documentation](https://case-technologies.ru/Documents/Documentation%20for%20CUtils.pdf).
+To explore CUtils in detail, please refer to the complete [CUtils Documentation](https://case-technologies.ru/Documents/Documentation%20for%20CUtilsv2.0.0.pdf).
 
 ### About this repository
 
@@ -31,7 +31,7 @@ In this repository you can find the compiled version for the Windows operating s
 
 ### Документация
 
-Полную документацию по CUtils вы можете найти по следующей ссылке: [Документация CUtils](https://case-technologies.ru/Documents/Documentation%20for%20CUtils.pdf).
+Полную документацию по CUtils вы можете найти по следующей ссылке: [Документация CUtils](https://case-technologies.ru/Documents/Documentation%20for%20CUtilsv2.0.0.pdf).
 
 ### Про данный репозиторий
 

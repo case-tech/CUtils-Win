@@ -1,5 +1,5 @@
 // The MIT License (MIT)
-// Copyright Â© 2024 Case Technologies
+// Copyright © 2024 Case Technologies
 
 #pragma once
 #include <iostream>
